@@ -1,6 +1,6 @@
 1.  The other part of the insight is that the LLM witnessed many such sequences in its training, so it might not even consider skipping right to the solution without that being made clear.
 
-2.  Include 20260109__LLM_Derivation_Paths_as_Knowledge_State_Identity__@prompt_engineering_@knowledge_graphs_@multics_inspired.promptcomp.md
+2.  Include `20260109__LLM_Derivation_Paths_as_Knowledge_State_Identity__@prompt_engineering_@knowledge_graphs_@multics_inspired.promptcomp.md`
 I think this project from yesterday primed me to reach this insight.
 
 3.  I can't be the first to reach this conclusion. Please search for other work on this aspect of training prompting and paths to knowledge
@@ -24,7 +24,7 @@ One path is to change the training process so that most factual knowledge is add
 
 11. Remember that Current State Snapshot I asked for a few turns back? I found that I can use that with a frontier model after working out a solution, then play back the snapshot into a smaller local model. The local model previously struggled with the problem, but after getting the DAG from the smarter model its thinking was shaped well enough to gain new skills.
 
-12. Include 20260108__BMI_Proportionality_and_Math_DAG__@reasoning_@optimization_@math.promptcomp.md
+12. Include `20260108__BMI_Proportionality_and_Math_DAG__@reasoning_@optimization_@math.promptcomp.md`
     Here is the local conversation as a specific example.
 
 13. I found that the Hermes model was not able to produce a coherent state save, but it easily ingested one made by a larger model. this kind of downward skill transfer might be useful in specific edge applications. but the insight is this is a ladder to greater capabilities for even the best frontier models.
