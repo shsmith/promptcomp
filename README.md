@@ -1,5 +1,9 @@
 # PromptComp
 
+**Save your prompts.**
+LLM outputs are fungible. Your prompts, your derivation paths, are not.
+PromptComp is a way to preserve, replay, and share the actual creative work.
+
 **A new form of writing for the LLM era**
 
 PromptComp (Prompt Composition) treats sequences of human prompts as first-class artifacts—executable prose that encodes knowledge states and can be replayed, shared, and projected into multiple formats.
