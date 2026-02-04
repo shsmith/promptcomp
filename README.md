@@ -36,8 +36,6 @@ promptcomp/
 ├── README.md              # You are here
 │
 ├── blog/                  # Daily PromptComp entries
-│   ├── 20260128__example__@demo_@tutorial.promptcomp.md
-│   └── ...
 │
 ├── contrib/               # Community contributions
 │   └── README.md
